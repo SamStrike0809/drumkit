@@ -3,6 +3,8 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
+![ScreenShot](./drum.png)
+
 ## General info
 This project a drum kit which you can play with mouse or keyboard!
 	
